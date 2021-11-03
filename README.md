@@ -1,2 +1,3 @@
-# strapi-corporate-admin
-strapi-corporate-admin
+# Strapi application
+
+A quick description of your strapi application
